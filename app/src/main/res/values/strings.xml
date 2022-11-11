@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="info">Temel Komutlar Ünite 3 - Uygulamalar</string>
+    <string name="info2">Temel Komutlar Layout</string>
+    <string name="uyg1">int, long vb. komutlar</string>
+    <string name="uyg2">char komutu 1</string>
+    <string name="uyg3">char komutu 2</string>
+    <string name="uyg4">Ondalıklı Değişkenler</string>
+</resources>
