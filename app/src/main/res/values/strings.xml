@@ -9,6 +9,7 @@
     <string name="uyg8">Uygulama 8</string>
     <string name="uyg9">Uygulama 9</string>
     <string name="uyg10">Uygulama 10</string>
+    <string name="uyg11">Uygulama 11</string>
     <string name="uyg">Mantıksal Operatörler</string>
     <string name="onewayticket">Sayı Giriniz..</string>
     <string name="onewayticket2">Uygula</string>
@@ -30,4 +31,6 @@
     <string name="iht4">x, y den küçük mü :</string>
     <string name="iht5">x, y den büyük veya eşit mi :</string>
     <string name="iht6">x, y den küçük veya eşit mi :</string>
+    <string name="onewayticket3">sayı veya metin girişi.</string>
+    <string name="btn">Uygula</string>
 </resources>
