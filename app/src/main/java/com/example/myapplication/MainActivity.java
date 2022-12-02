@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Button uygulama2 = findViewById(R.id.btn2);
         Button uygulama3 = findViewById(R.id.btn3);
         Button uygulama4 = findViewById(R.id.btn4);
+        Button uygulama8 = findViewById(R.id.btn8);
         temelkomutlaragit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -42,6 +43,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent a = new Intent(MainActivity.this,Uyg4Activity.class);
+                startActivity(a);
+            }
+        });
+        uygulama8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent a = new Intent(MainActivity.this,Uyg8Activity.class);
                 startActivity(a);
             }
         });

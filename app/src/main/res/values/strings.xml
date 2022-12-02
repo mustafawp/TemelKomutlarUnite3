@@ -6,5 +6,15 @@
     <string name="uyg2">char komutu 1</string>
     <string name="uyg3">char komutu 2</string>
     <string name="uyg4">Ondalıklı Değişkenler</string>
+    <string name="uyg8">Uygulama 8</string>
     <string name="uyg">Mantıksal Operatörler</string>
+    <string name="onewayticket">Sayı Giriniz..</string>
+    <string name="onewayticket2">Uygula</string>
+    <string name="toplam">Toplam =</string>
+    <string name="fark">Fark =</string>
+    <string name="carpim">Çarpım =</string>
+    <string name="bolme">Bölme =</string>
+    <string name="mod">Modu =</string>
+    <string name="arttirma">Arttırma =</string>
+    <string name="azaltma">Azaltma =</string>
 </resources>
