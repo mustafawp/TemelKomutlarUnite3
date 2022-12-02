@@ -15,16 +15,16 @@ public class Uyg8Activity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.uyg8layout);
-        EditText girilen = findViewById(R.id.txtGirilen);
-        EditText girilen2 = findViewById(R.id.txtGirilen2);
-        TextView txt1 = findViewById(R.id.textw1);
-        TextView txt2 = findViewById(R.id.textw2);
-        TextView txt3 = findViewById(R.id.textw3);
-        TextView txt4 = findViewById(R.id.textw4);
-        TextView txt5 = findViewById(R.id.textw5);
-        TextView txt6 = findViewById(R.id.textw6);
+        EditText girilen = findViewById(R.id.txtgirisi1);
+        EditText girilen2 = findViewById(R.id.txtgirisi2);
+        TextView txt1 = findViewById(R.id.textaga1);
+        TextView txt2 = findViewById(R.id.textaga2);
+        TextView txt3 = findViewById(R.id.textaga3);
+        TextView txt4 = findViewById(R.id.textaga4);
+        TextView txt5 = findViewById(R.id.textaga5);
+        TextView txt6 = findViewById(R.id.textaga6);
         TextView txt7 = findViewById(R.id.textw7);
-        Button btn = findViewById(R.id.btnUygula);
+        Button btn = findViewById(R.id.btnUygulama);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

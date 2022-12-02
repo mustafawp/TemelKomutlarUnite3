@@ -27,6 +27,8 @@
         <activity android:name=".Uyg3Activity" android:label="@string/info2"></activity>
         <activity android:name=".Uyg4Activity" android:label="@string/info2"></activity>
         <activity android:name=".Uyg8Activity" android:label="Uygulama 8"></activity>
+        <activity android:name=".Uyg9Activity" android:label="Uygulama 9"></activity>
+        <activity android:name=".Uyg10Activity" android:label="Uygulama 10"></activity>
     </application>
 
 </manifest>

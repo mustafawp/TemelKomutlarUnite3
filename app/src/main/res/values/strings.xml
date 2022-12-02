@@ -7,6 +7,8 @@
     <string name="uyg3">char komutu 2</string>
     <string name="uyg4">Ondalıklı Değişkenler</string>
     <string name="uyg8">Uygulama 8</string>
+    <string name="uyg9">Uygulama 9</string>
+    <string name="uyg10">Uygulama 10</string>
     <string name="uyg">Mantıksal Operatörler</string>
     <string name="onewayticket">Sayı Giriniz..</string>
     <string name="onewayticket2">Uygula</string>
@@ -16,5 +18,16 @@
     <string name="bolme">Bölme =</string>
     <string name="mod">Modu =</string>
     <string name="arttirma">Arttırma =</string>
-    <string name="azaltma">Azaltma =</string>
+    <string name="yapi1">X 10 dan büyük ve Y 10 dan küçük mü?</string>
+    <string name="yapi2">X 10 dan büyük ve Y 10 dan küçük mü tersi</string>
+    <string name="yapi3">X 10 dan büyük veya Y 10 dan küçük mü?</string>
+    <string name="yapi4">X 10 dan büyük veya Y 10 dan küçük mü tersi</string>
+    <string name="xgirin">X i girin.</string>
+    <string name="ygirin">Y yi girin.</string>
+    <string name="iht1">x ile y eşit mi :</string>
+    <string name="iht2">x ile y farklı mı :</string>
+    <string name="iht3">x, y den büyük mü :</string>
+    <string name="iht4">x, y den küçük mü :</string>
+    <string name="iht5">x, y den büyük veya eşit mi :</string>
+    <string name="iht6">x, y den küçük veya eşit mi :</string>
 </resources>
