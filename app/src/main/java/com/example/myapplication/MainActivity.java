@@ -77,5 +77,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(a);
             }
         });
+        Button ase = findViewById(R.id.btn12);
+        ase.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent a = new Intent(MainActivity.this,Uyg12Activity.class);
+                startActivity(a);
+            }
+        });
     }
 }
